@@ -15,6 +15,6 @@ export const userConfig: Partial<UserConfig> = {
 
   appearance: {
     locale: 'en-us',
-    themeStyle: 'dark',
+    themeStyle: 'system',
   },
 }
