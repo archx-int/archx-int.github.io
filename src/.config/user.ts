@@ -12,4 +12,9 @@ export const userConfig: Partial<UserConfig> = {
       { name: 'rss', href: '/atom.xml' },
     ],
   },
+
+  appearance: {
+    locale: 'en-us',
+    themeStyle: 'dark',
+  },
 }
