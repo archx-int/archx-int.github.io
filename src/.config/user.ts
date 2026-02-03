@@ -1,7 +1,15 @@
 import type { UserConfig } from '~/types'
 
 export const userConfig: Partial<UserConfig> = {
-  // Override the default config here
-  // site: { title: "講評世界" },
-  // seo: { twitter: "@moeyua13" },
+  site: {
+    title: 'archx',
+    subtitle: 'archx.info',
+    author: 'archx',
+    description: 'archx.info',
+    website: 'https://archx.info/',
+    socialLinks: [
+      { name: 'github', href: 'https://github.com/archx-int' },
+      { name: 'rss', href: '/atom.xml' },
+    ],
+  },
 }
