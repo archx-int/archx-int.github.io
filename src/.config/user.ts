@@ -8,13 +8,12 @@ export const userConfig: Partial<UserConfig> = {
     description: 'archx.info',
     website: 'https://archx.info/',
     socialLinks: [
-      { name: 'github', href: 'https://github.com/archx-int' },
       { name: 'rss', href: '/atom.xml' },
     ],
   },
 
   appearance: {
     locale: 'en-us',
-    themeStyle: 'system',
+    themeStyle: 'light', // 'light' | 'dark' | 'system'
   },
 }

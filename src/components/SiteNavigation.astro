@@ -1,5 +1,6 @@
 ---
 import { themeConfig } from '~/.config'
+import ModeToggle from './ModeToggle.astro'
 
 const { navLinks, socialLinks } = themeConfig.site
 const { translate: t } = Astro.locals
@@ -17,6 +18,7 @@ const { translate: t } = Astro.locals
       ))
     }
   </ul>
+
   <ul flex="~ row gap-1 justify-center">
     {
       socialLinks.map(({ href, name }) => (
