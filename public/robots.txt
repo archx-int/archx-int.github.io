@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://archx.info/sitemap-index.xml
+Sitemap: https://archx.info/atom.xml
