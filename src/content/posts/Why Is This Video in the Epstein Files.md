@@ -22,9 +22,9 @@ The purpose of this publication is informational and analytical only.
 
 Viewer discretion is strongly advised.
 
-File: **(EFTA01621920.mp4: [Video](https://pub-04216fede0f6445987deddc2a332091e.r2.dev/epstein/all%20file/video/EFTA01621920.mp4/)**)
+File: **(EFTA01621920.mp4: [Video](https://pub-04216fede0f6445987deddc2a332091e.r2.dev/epstein/all%20file/video/EFTA01621920.mp4)**)
 
-Original File: **(EFTA01621920.mov: [Video](https://pub-04216fede0f6445987deddc2a332091e.r2.dev/epstein/all%20file/video/EFTA01621920.mov/)**)
+Original File: **(EFTA01621920.mov: [Video](https://pub-04216fede0f6445987deddc2a332091e.r2.dev/epstein/all%20file/video/EFTA01621920.mov)**)
 
 File Hash: **b6e238e68126115c46c93271108836bde7a77bfdbe423f8b04703992fcb11e01**
 
