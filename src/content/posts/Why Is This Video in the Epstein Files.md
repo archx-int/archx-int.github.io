@@ -32,14 +32,14 @@ File Name: **EFTA01621920**
 
 Lets see metadata of video file,
 
-### METADATA
+#####**METADATA**
 
-| Model | **iPhone 6** |
-| Software | **9.1** |
-| HandlerVendorID | **Apple** |
-| CreationDate | **2016:06:29 18:13:55+0200** |
-| ImageSize | **1280x720** |
-| MajorBrand | **Apple QuickTime (.MOV/QT)** |
+> Model **iPhone 6**
+> Software **9.1**
+> HandlerVendorID **Apple**
+> CreationDate **2016:06:29 18:13:55+0200**
+> ImageSize **1280x720**
+> MajorBrand **Apple QuickTime (.MOV/QT)**
 
 Metadata indicates that the video was recorded on an iPhone 6 in June 2016, using standard iOS software, with a time zone consistent with Central Europe aligning with the Italian language heard in the footage.
 
@@ -92,4 +92,4 @@ Epstein files, it provides essential context for questioning why recordings invo
 
 it can highlight gaps, inconsistencies, and unanswered questions that deserve further scrutiny.
 
-In the absence of additional context, this video remains an uncontextualized archival record—one that illustrates the importance of transparency, documentation, and responsible interpretation when examining sensitive materials.
+In the absence of additional context, this video remains an uncontextualized archival record one that illustrates the importance of transparency, documentation, and responsible interpretation when examining sensitive materials.
