@@ -35,7 +35,12 @@ export default defineConfig({
   integrations: [
     UnoCSS({ injectReset: true }),
     mdx({}),
-    robotsTxt(),
+    robotsTxt({
+      sitemap: [
+        'https://archx.info/sitemap-index.xml',
+        'https://archx.info/atom.xml',
+      ],
+    }),
     sitemap(),
     swup({
       theme: false,
